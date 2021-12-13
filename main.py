@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 import json
 import rtmidi
-from time import sleep
 from rtmidi.midiconstants import NOTE_OFF, NOTE_ON
+from time import sleep
 
 device_name = "MIDI Control Center"
 midiout = rtmidi.MidiOut()
