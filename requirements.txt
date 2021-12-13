@@ -1,0 +1,2 @@
+python-rtmidi --install-option="--no-jack"
+black
