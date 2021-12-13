@@ -1,0 +1,404 @@
+{
+  "device": "KeyLab Essential",
+  "Pad 1" : {
+    "controller_id" : 112,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 36},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 4}
+    ]
+  },
+  "Pad 2" : {
+    "controller_id" : 113,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 37},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 3" : {
+    "controller_id" : 114,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 38},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 4" : {
+    "controller_id" : 115,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 39},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 5" : {
+    "controller_id" : 116,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 40},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 6" : {
+    "controller_id" : 117,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 41},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 7" : {
+    "controller_id" : 118,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 42},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Pad 8" : {
+    "controller_id" : 119,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 7},
+      {"id" : 17, "name" : "", "value" : 127},
+      {"id" : 18, "name" : "", "value" : 0},
+      {"id" : 19, "name" : "Color", "value" : 127},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 43},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Button 1" : {
+    "controller_id" : 26,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 8},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 20},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 0},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Button 2" : {
+    "controller_id" : 27,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 8},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 20},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 0},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Button 3" : {
+    "controller_id" : 28,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 8},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 22},
+      {"id" : 4, "name" : "Off Value", "value" : 64},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 0},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Sustain Pedal" : {
+    "controller_id" : 80,
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 8},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "Note", "value" : 64},
+      {"id" : 4, "name" : "Off Value", "value" : 0},
+      {"id" : 5, "name" : "On Value", "value" : 127},
+      {"id" : 7, "name" : "Option", "value" : 1},
+      {"id" : 8, "name" : "MMC", "value" : 2}
+    ]
+  },
+  "Keyboard" : {
+    "controller_id" : 48,
+    "params" : [
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 20, "name" : "Transpose Semi", "value" : 64},
+      {"id" : 21, "name" : "Transpose Oct", "value" : 64}
+    ]
+  },
+  "Knob 1" : {
+    "controller_id" : 1,
+    "Name" : "Foo",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 74},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 0}
+    ]
+  },
+  "Knob 2" : {
+    "controller_id" : 2,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 71},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 3" : {
+    "controller_id" : 3,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 76},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 4" : {
+    "controller_id" : 4,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 77},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 5" : {
+    "controller_id" : 5,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 93},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 6" : {
+    "controller_id" : 6,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 18},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 7" : {
+    "controller_id" : 7,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 19},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 8" : {
+    "controller_id" : 8,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 16},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Knob 9" : {
+    "controller_id" : 9,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 17},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 0},
+      {"id" : 9, "name" : "Acceleration", "value" : 2}
+    ]
+  },
+  "Fader 1" : {
+    "controller_id" : 66,
+    "Name" : "Bar",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 73},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 2" : {
+    "controller_id" : 67,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 75},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 3" : {
+    "controller_id" : 68,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 79},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 4" : {
+    "controller_id" : 69,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 72},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 5" : {
+    "controller_id" : 70,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 80},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 6" : {
+    "controller_id" : 71,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 81},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 7" : {
+    "controller_id" : 72,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 82},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 8" : {
+    "controller_id" : 73,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 83},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  },
+  "Fader 9" : {
+    "controller_id" : 74,
+    "Name" : "",
+    "params" : [
+      {"id" : 1, "name" : "Mode", "value" : 1},
+      {"id" : 2, "name" : "Channel", "value" : 65},
+      {"id" : 3, "name" : "CC Number", "value" : 85},
+      {"id" : 4, "name" : "Min Value", "value" : 0},
+      {"id" : 5, "name" : "Max Value", "value" : 127},
+      {"id" : 6, "name" : "Option", "value" : 12}
+    ]
+  }
+}
