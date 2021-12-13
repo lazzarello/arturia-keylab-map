@@ -8,11 +8,13 @@ Whelp, for one it runs on a Linux audio workstation with PipeWire, so that's goo
 
 It has a surface mapping file for Ardour which will provide all the DAW Command Center controls on the front panel, along with the first 8 banks of fader/pan controls and one master fader/pan for the 9th.
 
+Right now the pads just do record arm for the 8 channel banks controlled by the faders. Perhaps when Ardour 7 comes out it can do clip loop triggers like Ableton Live.
+
 It also might have some unlocked features *not available in the vendor published software.* So far it seems like that's limited to controlling the aftertouch range of the 8 pads.
 
 ## How do I run it?
 
-The author is developing it on Ubuntu Studio with the latest Plasma 5 desktop release. They also have a custom built PipeWire so there's no JACK/ALSA bridging, which is weird but it works good for me.
+The author is developing it on Ubuntu Studio with the latest Plasma 5 desktop release. The author has also have a custom built PipeWire so there's no JACK/ALSA bridging, which is weird but it works good for me. They are trying to get it into the PipeWire work into Ubuntu Studio but that's for later.
 
 It depends on the rtmidi C++ library and Python bindings, which are available in Ubuntu Studio, though not for the author's setup. For this reason they are compiling rtmidi manually.
 
@@ -24,6 +26,6 @@ After those two challenges, it should "just work" on Python 3.9
 
 It's easy! Open the file ardour-map-export.json in a text editor and change the values to what you want.
 
-Just kidding, that's not easy at all. There is no UI right now. We'll get to that later. The JSON should have descriptive names that map to the same grammar as in the vendor software, so you could type values and restart the program.
+Just kidding, that's not easy at all. There is no UI. We'll get to that later. The JSON should have descriptive names that map to the same grammar as in the vendor software, so you could type values and restart the program.
 
-If that makes sense, start the program and look at the output of `jack_lsp` or run Carla or sumn and you'll see a patch point for the MIDI output of this program! Connect it to the first Arturia hardware input (the second one does ???) and it should "just work".
+If that makes sense, start the program and look at the output of `jack_lsp` or run Carla or sumn and you'll see a patch point for the MIDI output of this program! Connect it to the first Arturia hardware input (the second one does ???) and it should "just work". j/k it doesn't actually do anything right now other than sleep.
